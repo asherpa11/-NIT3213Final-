@@ -19,6 +19,7 @@
         <TextView
             android:id="@+id/tvFields"
             android:layout_width="match_parent"
+            android:textStyle="bold"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp" />
 
@@ -31,6 +32,7 @@
 
         <TextView
             android:id="@+id/tvDescription"
+            android:textStyle="bold"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp" />
