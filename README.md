@@ -20,7 +20,7 @@ The "Animal Kingdom Explorer" allows users to:
 ## 🚀 How to Run the Application
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/asherpa11/-NIT3213Final-
     ```
 2.  **Open in Android Studio**:
     - Open Android Studio (Iguana or later).
